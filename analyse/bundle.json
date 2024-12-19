@@ -1,0 +1,918 @@
+{
+  "version": 2,
+  "tree": {
+    "name": "root",
+    "children": [
+      {
+        "name": "assets/index-DMBE2hB0.js",
+        "children": [
+          {
+            "name": "\u0000vite/modulepreload-polyfill.js",
+            "uid": "6c1ac3df-1"
+          },
+          {
+            "name": "\u0000/node_modules",
+            "children": [
+              {
+                "name": "react",
+                "children": [
+                  {
+                    "uid": "6c1ac3df-3",
+                    "name": "jsx-runtime.js?commonjs-module"
+                  },
+                  {
+                    "name": "cjs",
+                    "children": [
+                      {
+                        "uid": "6c1ac3df-5",
+                        "name": "react-jsx-runtime.production.min.js?commonjs-exports"
+                      },
+                      {
+                        "uid": "6c1ac3df-9",
+                        "name": "react.production.min.js?commonjs-exports"
+                      }
+                    ]
+                  },
+                  {
+                    "uid": "6c1ac3df-7",
+                    "name": "index.js?commonjs-module"
+                  },
+                  {
+                    "uid": "6c1ac3df-19",
+                    "name": "jsx-runtime.js?commonjs-es-import"
+                  },
+                  {
+                    "uid": "6c1ac3df-21",
+                    "name": "index.js?commonjs-es-import"
+                  }
+                ]
+              },
+              {
+                "name": "react-dom",
+                "children": [
+                  {
+                    "uid": "6c1ac3df-23",
+                    "name": "client.js?commonjs-exports"
+                  },
+                  {
+                    "uid": "6c1ac3df-25",
+                    "name": "index.js?commonjs-module"
+                  },
+                  {
+                    "name": "cjs/react-dom.production.min.js?commonjs-exports",
+                    "uid": "6c1ac3df-27"
+                  },
+                  {
+                    "uid": "6c1ac3df-43",
+                    "name": "client.js?commonjs-es-import"
+                  }
+                ]
+              },
+              {
+                "name": "scheduler",
+                "children": [
+                  {
+                    "uid": "6c1ac3df-29",
+                    "name": "index.js?commonjs-module"
+                  },
+                  {
+                    "name": "cjs/scheduler.production.min.js?commonjs-exports",
+                    "uid": "6c1ac3df-31"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "node_modules",
+            "children": [
+              {
+                "name": "react",
+                "children": [
+                  {
+                    "name": "cjs",
+                    "children": [
+                      {
+                        "uid": "6c1ac3df-11",
+                        "name": "react.production.min.js"
+                      },
+                      {
+                        "uid": "6c1ac3df-15",
+                        "name": "react-jsx-runtime.production.min.js"
+                      }
+                    ]
+                  },
+                  {
+                    "uid": "6c1ac3df-13",
+                    "name": "index.js"
+                  },
+                  {
+                    "uid": "6c1ac3df-17",
+                    "name": "jsx-runtime.js"
+                  }
+                ]
+              },
+              {
+                "name": "scheduler",
+                "children": [
+                  {
+                    "name": "cjs/scheduler.production.min.js",
+                    "uid": "6c1ac3df-33"
+                  },
+                  {
+                    "uid": "6c1ac3df-35",
+                    "name": "index.js"
+                  }
+                ]
+              },
+              {
+                "name": "react-dom",
+                "children": [
+                  {
+                    "name": "cjs/react-dom.production.min.js",
+                    "uid": "6c1ac3df-37"
+                  },
+                  {
+                    "uid": "6c1ac3df-39",
+                    "name": "index.js"
+                  },
+                  {
+                    "uid": "6c1ac3df-41",
+                    "name": "client.js"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "src",
+            "children": [
+              {
+                "uid": "6c1ac3df-45",
+                "name": "index.css"
+              },
+              {
+                "name": "assets/react.svg",
+                "uid": "6c1ac3df-47"
+              },
+              {
+                "uid": "6c1ac3df-51",
+                "name": "App.css"
+              },
+              {
+                "uid": "6c1ac3df-53",
+                "name": "App.tsx"
+              },
+              {
+                "uid": "6c1ac3df-55",
+                "name": "main.tsx"
+              }
+            ]
+          },
+          {
+            "uid": "6c1ac3df-49",
+            "name": "vite.svg"
+          },
+          {
+            "uid": "6c1ac3df-57",
+            "name": "index.html"
+          }
+        ]
+      }
+    ],
+    "isRoot": true
+  },
+  "nodeParts": {
+    "6c1ac3df-1": {
+      "renderedLength": 1280,
+      "gzipLength": 537,
+      "brotliLength": 454,
+      "metaUid": "6c1ac3df-0"
+    },
+    "6c1ac3df-3": {
+      "renderedLength": 31,
+      "gzipLength": 51,
+      "brotliLength": 35,
+      "metaUid": "6c1ac3df-2"
+    },
+    "6c1ac3df-5": {
+      "renderedLength": 40,
+      "gzipLength": 60,
+      "brotliLength": 37,
+      "metaUid": "6c1ac3df-4"
+    },
+    "6c1ac3df-7": {
+      "renderedLength": 26,
+      "gzipLength": 46,
+      "brotliLength": 30,
+      "metaUid": "6c1ac3df-6"
+    },
+    "6c1ac3df-9": {
+      "renderedLength": 30,
+      "gzipLength": 50,
+      "brotliLength": 34,
+      "metaUid": "6c1ac3df-8"
+    },
+    "6c1ac3df-11": {
+      "renderedLength": 7647,
+      "gzipLength": 2798,
+      "brotliLength": 2419,
+      "metaUid": "6c1ac3df-10"
+    },
+    "6c1ac3df-13": {
+      "renderedLength": 198,
+      "gzipLength": 133,
+      "brotliLength": 112,
+      "metaUid": "6c1ac3df-12"
+    },
+    "6c1ac3df-15": {
+      "renderedLength": 1192,
+      "gzipLength": 600,
+      "brotliLength": 484,
+      "metaUid": "6c1ac3df-14"
+    },
+    "6c1ac3df-17": {
+      "renderedLength": 243,
+      "gzipLength": 144,
+      "brotliLength": 125,
+      "metaUid": "6c1ac3df-16"
+    },
+    "6c1ac3df-19": {
+      "renderedLength": 44,
+      "gzipLength": 57,
+      "brotliLength": 48,
+      "metaUid": "6c1ac3df-18"
+    },
+    "6c1ac3df-21": {
+      "renderedLength": 34,
+      "gzipLength": 52,
+      "brotliLength": 38,
+      "metaUid": "6c1ac3df-20"
+    },
+    "6c1ac3df-23": {
+      "renderedLength": 16,
+      "gzipLength": 36,
+      "brotliLength": 17,
+      "metaUid": "6c1ac3df-22"
+    },
+    "6c1ac3df-25": {
+      "renderedLength": 29,
+      "gzipLength": 49,
+      "brotliLength": 33,
+      "metaUid": "6c1ac3df-24"
+    },
+    "6c1ac3df-27": {
+      "renderedLength": 33,
+      "gzipLength": 53,
+      "brotliLength": 37,
+      "metaUid": "6c1ac3df-26"
+    },
+    "6c1ac3df-29": {
+      "renderedLength": 30,
+      "gzipLength": 50,
+      "brotliLength": 34,
+      "metaUid": "6c1ac3df-28"
+    },
+    "6c1ac3df-31": {
+      "renderedLength": 34,
+      "gzipLength": 54,
+      "brotliLength": 32,
+      "metaUid": "6c1ac3df-30"
+    },
+    "6c1ac3df-33": {
+      "renderedLength": 4567,
+      "gzipLength": 1874,
+      "brotliLength": 1614,
+      "metaUid": "6c1ac3df-32"
+    },
+    "6c1ac3df-35": {
+      "renderedLength": 230,
+      "gzipLength": 136,
+      "brotliLength": 116,
+      "metaUid": "6c1ac3df-34"
+    },
+    "6c1ac3df-37": {
+      "renderedLength": 132837,
+      "gzipLength": 42540,
+      "brotliLength": 36932,
+      "metaUid": "6c1ac3df-36"
+    },
+    "6c1ac3df-39": {
+      "renderedLength": 524,
+      "gzipLength": 262,
+      "brotliLength": 211,
+      "metaUid": "6c1ac3df-38"
+    },
+    "6c1ac3df-41": {
+      "renderedLength": 242,
+      "gzipLength": 148,
+      "brotliLength": 120,
+      "metaUid": "6c1ac3df-40"
+    },
+    "6c1ac3df-43": {
+      "renderedLength": 36,
+      "gzipLength": 53,
+      "brotliLength": 40,
+      "metaUid": "6c1ac3df-42"
+    },
+    "6c1ac3df-45": {
+      "renderedLength": 0,
+      "gzipLength": 0,
+      "brotliLength": 0,
+      "metaUid": "6c1ac3df-44"
+    },
+    "6c1ac3df-47": {
+      "renderedLength": 45,
+      "gzipLength": 65,
+      "brotliLength": 49,
+      "metaUid": "6c1ac3df-46"
+    },
+    "6c1ac3df-49": {
+      "renderedLength": 51,
+      "gzipLength": 71,
+      "brotliLength": 55,
+      "metaUid": "6c1ac3df-48"
+    },
+    "6c1ac3df-51": {
+      "renderedLength": 0,
+      "gzipLength": 0,
+      "brotliLength": 0,
+      "metaUid": "6c1ac3df-50"
+    },
+    "6c1ac3df-53": {
+      "renderedLength": 1357,
+      "gzipLength": 449,
+      "brotliLength": 392,
+      "metaUid": "6c1ac3df-52"
+    },
+    "6c1ac3df-55": {
+      "renderedLength": 195,
+      "gzipLength": 156,
+      "brotliLength": 106,
+      "metaUid": "6c1ac3df-54"
+    },
+    "6c1ac3df-57": {
+      "renderedLength": 0,
+      "gzipLength": 0,
+      "brotliLength": 0,
+      "metaUid": "6c1ac3df-56"
+    }
+  },
+  "nodeMetas": {
+    "6c1ac3df-0": {
+      "id": "\u0000vite/modulepreload-polyfill.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-1"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-56"
+        }
+      ]
+    },
+    "6c1ac3df-2": {
+      "id": "\u0000/node_modules/react/jsx-runtime.js?commonjs-module",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-3"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-16"
+        }
+      ]
+    },
+    "6c1ac3df-4": {
+      "id": "\u0000/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-5"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-14"
+        }
+      ]
+    },
+    "6c1ac3df-6": {
+      "id": "\u0000/node_modules/react/index.js?commonjs-module",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-7"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-12"
+        }
+      ]
+    },
+    "6c1ac3df-8": {
+      "id": "\u0000/node_modules/react/cjs/react.production.min.js?commonjs-exports",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-9"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-10"
+        }
+      ]
+    },
+    "6c1ac3df-10": {
+      "id": "/node_modules/react/cjs/react.production.min.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-11"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-8"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-12"
+        }
+      ]
+    },
+    "6c1ac3df-12": {
+      "id": "/node_modules/react/index.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-13"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-6"
+        },
+        {
+          "uid": "6c1ac3df-10"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-20"
+        },
+        {
+          "uid": "6c1ac3df-14"
+        },
+        {
+          "uid": "6c1ac3df-36"
+        }
+      ]
+    },
+    "6c1ac3df-14": {
+      "id": "/node_modules/react/cjs/react-jsx-runtime.production.min.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-15"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-4"
+        },
+        {
+          "uid": "6c1ac3df-12"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-16"
+        }
+      ]
+    },
+    "6c1ac3df-16": {
+      "id": "/node_modules/react/jsx-runtime.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-17"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-2"
+        },
+        {
+          "uid": "6c1ac3df-14"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-18"
+        }
+      ]
+    },
+    "6c1ac3df-18": {
+      "id": "\u0000/node_modules/react/jsx-runtime.js?commonjs-es-import",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-19"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-16"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-54"
+        },
+        {
+          "uid": "6c1ac3df-52"
+        }
+      ]
+    },
+    "6c1ac3df-20": {
+      "id": "\u0000/node_modules/react/index.js?commonjs-es-import",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-21"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-12"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-54"
+        },
+        {
+          "uid": "6c1ac3df-52"
+        }
+      ]
+    },
+    "6c1ac3df-22": {
+      "id": "\u0000/node_modules/react-dom/client.js?commonjs-exports",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-23"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-40"
+        }
+      ]
+    },
+    "6c1ac3df-24": {
+      "id": "\u0000/node_modules/react-dom/index.js?commonjs-module",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-25"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-38"
+        }
+      ]
+    },
+    "6c1ac3df-26": {
+      "id": "\u0000/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-27"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-36"
+        }
+      ]
+    },
+    "6c1ac3df-28": {
+      "id": "\u0000/node_modules/scheduler/index.js?commonjs-module",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-29"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-34"
+        }
+      ]
+    },
+    "6c1ac3df-30": {
+      "id": "\u0000/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-31"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-32"
+        }
+      ]
+    },
+    "6c1ac3df-32": {
+      "id": "/node_modules/scheduler/cjs/scheduler.production.min.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-33"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-30"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-34"
+        }
+      ]
+    },
+    "6c1ac3df-34": {
+      "id": "/node_modules/scheduler/index.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-35"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-28"
+        },
+        {
+          "uid": "6c1ac3df-32"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-36"
+        }
+      ]
+    },
+    "6c1ac3df-36": {
+      "id": "/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-37"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-26"
+        },
+        {
+          "uid": "6c1ac3df-12"
+        },
+        {
+          "uid": "6c1ac3df-34"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-38"
+        }
+      ]
+    },
+    "6c1ac3df-38": {
+      "id": "/node_modules/react-dom/index.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-39"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-24"
+        },
+        {
+          "uid": "6c1ac3df-36"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-40"
+        }
+      ]
+    },
+    "6c1ac3df-40": {
+      "id": "/node_modules/react-dom/client.js",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-41"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-22"
+        },
+        {
+          "uid": "6c1ac3df-38"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-42"
+        }
+      ]
+    },
+    "6c1ac3df-42": {
+      "id": "\u0000/node_modules/react-dom/client.js?commonjs-es-import",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-43"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-58"
+        },
+        {
+          "uid": "6c1ac3df-40"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-54"
+        }
+      ]
+    },
+    "6c1ac3df-44": {
+      "id": "/src/index.css",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-45"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-54"
+        }
+      ]
+    },
+    "6c1ac3df-46": {
+      "id": "/src/assets/react.svg",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-47"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-52"
+        }
+      ]
+    },
+    "6c1ac3df-48": {
+      "id": "/vite.svg",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-49"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-52"
+        }
+      ]
+    },
+    "6c1ac3df-50": {
+      "id": "/src/App.css",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-51"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-52"
+        }
+      ]
+    },
+    "6c1ac3df-52": {
+      "id": "/src/App.tsx",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-53"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-18"
+        },
+        {
+          "uid": "6c1ac3df-20"
+        },
+        {
+          "uid": "6c1ac3df-46"
+        },
+        {
+          "uid": "6c1ac3df-48"
+        },
+        {
+          "uid": "6c1ac3df-50"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-54"
+        }
+      ]
+    },
+    "6c1ac3df-54": {
+      "id": "/src/main.tsx",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-55"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-18"
+        },
+        {
+          "uid": "6c1ac3df-20"
+        },
+        {
+          "uid": "6c1ac3df-42"
+        },
+        {
+          "uid": "6c1ac3df-44"
+        },
+        {
+          "uid": "6c1ac3df-52"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-56"
+        }
+      ]
+    },
+    "6c1ac3df-56": {
+      "id": "/index.html",
+      "moduleParts": {
+        "assets/index-DMBE2hB0.js": "6c1ac3df-57"
+      },
+      "imported": [
+        {
+          "uid": "6c1ac3df-0"
+        },
+        {
+          "uid": "6c1ac3df-54"
+        }
+      ],
+      "importedBy": [],
+      "isEntry": true
+    },
+    "6c1ac3df-58": {
+      "id": "\u0000commonjsHelpers.js",
+      "moduleParts": {},
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "6c1ac3df-18"
+        },
+        {
+          "uid": "6c1ac3df-20"
+        },
+        {
+          "uid": "6c1ac3df-42"
+        },
+        {
+          "uid": "6c1ac3df-16"
+        },
+        {
+          "uid": "6c1ac3df-12"
+        },
+        {
+          "uid": "6c1ac3df-40"
+        },
+        {
+          "uid": "6c1ac3df-14"
+        },
+        {
+          "uid": "6c1ac3df-10"
+        },
+        {
+          "uid": "6c1ac3df-38"
+        },
+        {
+          "uid": "6c1ac3df-36"
+        },
+        {
+          "uid": "6c1ac3df-34"
+        },
+        {
+          "uid": "6c1ac3df-32"
+        }
+      ]
+    }
+  },
+  "env": {
+    "rollup": "4.28.1"
+  },
+  "options": {
+    "gzip": true,
+    "brotli": true,
+    "sourcemap": false
+  }
+}
